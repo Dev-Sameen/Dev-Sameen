@@ -1,3 +1,38 @@
+# Hi, I'm Sameen Iqbal 👋
+
+### Full Stack Web Developer | AI-Assisted Engineer
+
+I build modern, scalable, and intelligent web applications using modern frontend, backend, and AI technologies.
+
+## 🚀 Tech Stack
+
+* React.js
+* Next.js
+* JavaScript
+* Python & Flask
+* Node.js & Express
+* MongoDB & MySQL
+* Tailwind CSS
+* Firebase
+* OpenAI API
+
+## 🌱 Currently Exploring
+
+* AI Integrations
+* SaaS Architecture
+* Automation Systems
+* Advanced React Patterns
+
+## 📫 Connect With Me
+
+* LinkedIn
+* GitHub
+* Portfolio Website
+* WhatsApp
+
+## ⚡ Fun Fact
+
+I combine development + AI workflows to build smarter digital experiences.
 ## Hi there 👋
 
 <!--
